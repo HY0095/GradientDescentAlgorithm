@@ -1,1 +1,1 @@
-# GradientDescentAlgorithm
+# Gradient Descent Algorithm
